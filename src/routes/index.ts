@@ -1,7 +1,3 @@
-import {FastifyInstance} from 'fastify'
+import { FastifyInstance } from "fastify";
 
-export const appRoutes = async (app: FastifyInstance) => {
-
-}
-
-
+export const appRoutes = async (app: FastifyInstance) => {};
